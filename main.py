@@ -1,4 +1,14 @@
-def addition():
-    print(5 + 2)
+from funcs import addition
+from funcs import subtraction
 
 addition()
+
+
+
+
+
+
+
+
+
+
